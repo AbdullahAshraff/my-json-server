@@ -1,0 +1,88 @@
+{
+  "cartProducts": [
+    {
+      "title": "Basket Ball",
+      "id": "1",
+      "priceCents": 24000,
+      "quantity": 7,
+      "keywords": [
+        "sport",
+        "health"
+      ],
+      "description": "This is a basketball that you can use to play anywhere. It is nice to have one and look how it is the best value of a price. Really I hope you to enjoy playing any sport you like and I strogly recommend new sport like basket ball!",
+      "image": "images\\intermediate-composite-basketball.jpg"
+    },
+    {
+      "title": "Burger",
+      "id": "2",
+      "priceCents": 12000,
+      "quantity": 2,
+      "keywords": [
+        "meal",
+        "mcdonalds",
+        "food",
+        "restaurant"
+      ],
+      "image": "images\\men-golf-polo-t-shirt-blue.jpg"
+    },
+    {
+      "title": "T Shirt",
+      "id": "3",
+      "priceCents": 35000,
+      "quantity": 1,
+      "keywords": [
+        "clothing",
+        "brand",
+        "style",
+        "fashion"
+      ]
+    },
+    {
+      "title": "Book",
+      "id": "4",
+      "priceCents": 78000,
+      "quantity": 1,
+      "keywords": [
+        "book",
+        "reading",
+        "productivity"
+      ]
+    },
+    {
+      "id": "f0ee",
+      "title": "Pants",
+      "priceCents": "120000",
+      "quantity": 1
+    },
+    {
+      "id": "13fb",
+      "title": "Shoes",
+      "priceCents": "69900",
+      "quantity": 1
+    },
+    {
+      "id": "6e24",
+      "title": "Cup",
+      "priceCents": "19999",
+      "quantity": 1
+    },
+    {
+      "id": "8591",
+      "title": "Bottle",
+      "priceCents": "600",
+      "quantity": 1
+    },
+    {
+      "id": "bce8",
+      "title": "Abdullah",
+      "priceCents": "2134",
+      "quantity": 1
+    },
+    {
+      "id": "0dd1",
+      "title": "عادل شكل",
+      "priceCents": "90000",
+      "quantity": 1
+    }
+  ]
+}
